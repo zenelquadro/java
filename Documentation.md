@@ -114,3 +114,26 @@ There are no complex algorithms, but good use of clean control structures and se
 
 - Add **update/edit** functionality to modify existing records.
 - Implement
+
+# How to Compile and Run the Waste Management Application
+
+## Requirements
+
+Make sure you have the following:
+
+1. **Java Development Kit (JDK)** — version 11 or higher.
+2. **JavaFX SDK** — download from: https://gluonhq.com/products/javafx/
+3. **Gson Library** — `gson-2.8.9.jar`
+4. **SQLite JDBC Driver** — `sqlite-jdbc-3.49.1.0.jar`
+
+---
+
+## Compile the project
+javac --module-path "javafx-sdk-21.0.1\lib" --add-modules javafx.controls -cp ".;gson-2.8.9.jar;sqlite-jdbc-3.49.1.0.jar" WasteManagementApp.java
+
+## Run the program 
+java --module-path "javafx-sdk-21.0.1\lib" --add-modules javafx.controls -cp ".;gson-2.8.9.jar;sqlite-jdbc-3.49.1.0.jar" WasteManagementApp
+
+
+
+
