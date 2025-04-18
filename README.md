@@ -12,3 +12,6 @@ This Java application is a simple waste collection management system that enable
 - Include input validation and error handling for a smooth user experience.
 - Add export functionality to allow data extraction in JSON and CSV formats.
 - Design the code in a modular and maintainable way for future feature expansion.
+
+
+![image](https://github.com/user-attachments/assets/2a37cce6-5612-4ebb-b51d-6c3a65a58e79)
