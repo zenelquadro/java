@@ -18,4 +18,14 @@ This Java application is a simple waste collection management system that enable
 
 
 
-https://docs.google.com/presentation/d/e/2PACX-1vSoBwUVOrMYU1gX0qzBDYAxDHHOtmVBzw2F9C2_rqfmL7YOri2bM7UIsFsEflQfojqZNWvAFbAt7Rcd/pub?start=false&loop=false&delayms=3000
+![image](https://github.com/user-attachments/assets/19975b08-8435-4dcf-90e7-295407adeb45)
+
+
+
+
+![image](https://github.com/user-attachments/assets/e29ec84e-eeab-43af-8df0-5e7a5312185d)
+
+
+
+
+Presentation - https://docs.google.com/presentation/d/e/2PACX-1vSoBwUVOrMYU1gX0qzBDYAxDHHOtmVBzw2F9C2_rqfmL7YOri2bM7UIsFsEflQfojqZNWvAFbAt7Rcd/pub?start=false&loop=false&delayms=3000
