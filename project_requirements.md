@@ -49,7 +49,7 @@
 ## Deliverables
 
 - Full Java source code with GUI.
-- SQL-based PostgreSQL database integration.
+- SQL-based MySQL database integration.
 - JSON and CSV export functionality.
 - README file and project documentation.
 - Git repository with clear commit history and version control.
