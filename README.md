@@ -15,3 +15,7 @@ This Java application is a simple waste collection management system that enable
 
 
 ![image](https://github.com/user-attachments/assets/2a37cce6-5612-4ebb-b51d-6c3a65a58e79)
+
+
+
+https://docs.google.com/presentation/d/e/2PACX-1vSoBwUVOrMYU1gX0qzBDYAxDHHOtmVBzw2F9C2_rqfmL7YOri2bM7UIsFsEflQfojqZNWvAFbAt7Rcd/pub?start=false&loop=false&delayms=3000
